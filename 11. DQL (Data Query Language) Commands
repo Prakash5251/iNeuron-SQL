@@ -1,0 +1,9 @@
+DQL (Data Query Language) Commands:
+
+1. SELECT:
+   - Retrieves data from one or more tables.
+   ```sql
+   SELECT column1, column2, ...
+   FROM table_name
+   WHERE condition;
+
