@@ -1,0 +1,12 @@
+SYNTAX : DROPPING TABLE
+
+
+
+drop table table_name;
+
+>> Add the column name to be dropped
+
+
+Video URL: https://youtu.be/efeJMjHHJCA
+PPT URL: https://docs.google.com/presentation/d/1Y3IZnLphLUAcaouCIQq8zZB1QMZWb2kk7X1ZRwr3GUA/edit#slide=id.p126
+
