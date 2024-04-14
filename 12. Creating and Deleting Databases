@@ -1,0 +1,15 @@
+SYNTAX : CREATE DATABASE
+
+Create Database database_name;
+
+(Input the Database Name)
+
+------------------------------------------------------------
+
+SYNTAX : DROP DATABASE
+
+Drop Database
+
+drop database database_name;
+
+
