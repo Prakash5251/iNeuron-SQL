@@ -1,0 +1,15 @@
+What is a Database and its Importance?
+
+A database is a structured collection of data organised in a way that makes it easy to manage, access, and update. It serves as a centralised repository for storing and retrieving information. Databases play a crucial role in various applications, providing a systematic method for managing and structuring data. The importance of databases includes:
+
+- Data Organization: Databases organise data into tables, making it easy to understand and manage relationships between different pieces of information.
+
+- Data Integrity: Databases enforce rules and constraints to maintain the accuracy and consistency of data.
+
+- Data Security: Access controls and permissions are implemented in databases to ensure that only authorised users can view or modify certain data.
+
+- Data Retrieval: Databases enable efficient and quick retrieval of specific data through queries, allowing users to obtain relevant information.
+
+- Scalability: Databases can scale to handle large amounts of data and growing user demands, making them suitable for various applications.
+
+
