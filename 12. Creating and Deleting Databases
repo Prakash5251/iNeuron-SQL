@@ -1,6 +1,6 @@
 SYNTAX : CREATE DATABASE
 
-Create Database database_name;
+create database database_name;
 
 (Input the Database Name)
 
@@ -8,8 +8,13 @@ Create Database database_name;
 
 SYNTAX : DROP DATABASE
 
-Drop Database
+drop database
 
 drop database database_name;
 
+------------------------------------------------------------
+SYNTAX : USE DATABASE
 
+use database
+
+use database database_name;
