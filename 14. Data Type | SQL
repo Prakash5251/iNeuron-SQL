@@ -1,0 +1,35 @@
+DATA TYPES
+
+
+INT   >> EXAMPLES : 28, -6  >>> Used for Non Decimal Numeric Data Ex – Age, Weight, Income
+
+CHAR  >> EXAMPLES : John, Marketing etc  >>> Used for Fixed length Text Data Ex – Product Codes, Postal Codes etc
+
+VAR CHAR  >> EXAMPLES : John, >>> Used for Variable Text Data Ex – First Name, last name etc. 
+
+FLOAT >> EXAMPLES : 2.4 ,  -66.5 >>> Used for Decimal Numeric Data Ex – Commission Percentage, etc 
+
+BOOLEAN >> EXAMPLES : True/False, Male/Female >>> Used for Data with only 2 possible entries, 
+
+DATE  >> EXAMPLES : 24/02/2023 >>> Used for Entering Date  
+
+TIME >> EXAMPLES : 12:22  >>> Used for Time
+
+DATETIME >> EXAMPLES : 23/10/2023 11:23 >>> Used for Date and Time entries : Transaction Data
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
