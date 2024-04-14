@@ -7,9 +7,6 @@ create table table_name(Column_name1 datatype1,Column_name2 datatype2, ……,);
 PRIMARY KEY =  Not Null + Unique
 
 
-PPT Link: https://docs.google.com/presentation/d/1XeRTuIsTEDNuC5WUr7oMlzZvEXure7ZhJnscZXkjaSY/edit#slide=id.p24
-
-
 Table Relationships:
 Primary Key >>> Parent Table
 Foreign Key >>> Child Table
