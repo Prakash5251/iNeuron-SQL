@@ -89,7 +89,8 @@ A company with a rapidly growing customer base
 A company with minimal data storage requirements
 
 Explanation
-Scenario-based questions require the consideration of specific business needs and technical requirements. This scenario best represents the use case for using a DBaaS solution where the company's rapidly growing customer base requires a scalable and highly available database solution, without the need for extensive in-house database management resources.
+Scenario-based questions require the consideration of specific business needs and technical requirements. 
+This scenario best represents the use case for using a DBaaS solution where the company's rapidly growing customer base requires a scalable and highly available database solution, without the need for extensive in-house database management resources.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -123,7 +124,8 @@ Limiting database access
 Delaying database setup
 
 Explanation
-Database provisioning refers to the process of allocating and configuring database resources, such as storage, compute capacity, and networking, based on the user's requirements. It involves setting up and preparing the database environment for use.
+Database provisioning refers to the process of allocating and configuring database resources, such as storage, compute capacity, and networking, based on the user's requirements. 
+It involves setting up and preparing the database environment for use.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -135,7 +137,8 @@ Recovery Point Objective
 Retry Process Offset
 
 Explanation
-RPO stands for Recovery Point Objective, which represents the maximum tolerable period in which data might be lost from an application due to a major incident. It helps determine the frequency of data backups and the acceptable data loss in case of a failure.
+RPO stands for Recovery Point Objective, which represents the maximum tolerable period in which data might be lost from an application due to a major incident. 
+It helps determine the frequency of data backups and the acceptable data loss in case of a failure.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -147,7 +150,8 @@ Security and compliance commitments
 Support and maintenance responsibilities
 
 Explanation
-Downtime penalties are typically included in an SLA to ensure service availability and to provide compensation to customers in case of unacceptable downtime. Therefore, it is not something excluded from an SLA.
+Downtime penalties are typically included in an SLA to ensure service availability and to provide compensation to customers in case of unacceptable downtime. 
+Therefore, it is not something excluded from an SLA.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -159,7 +163,8 @@ Data sharding
 Indexing
 
 Explanation
-Indexing is a common method for optimizing database performance as it allows faster data retrieval by creating efficient data access paths. This helps in improving query performance and overall database efficiency in a DBaaS environment.
+Indexing is a common method for optimizing database performance as it allows faster data retrieval by creating efficient data access paths. 
+This helps in improving query performance and overall database efficiency in a DBaaS environment.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -183,6 +188,7 @@ Dynamic resource adjustment based on workload demands
 Limited data storage flexibility
 
 Explanation
-Elasticity refers to the ability to dynamically adjust the resources, such as computing power and storage capacity, based on the changing workload demands. This allows the database to scale up or down as needed to handle varying levels of usage efficiently.
+Elasticity refers to the ability to dynamically adjust the resources, such as computing power and storage capacity, based on the changing workload demands. 
+This allows the database to scale up or down as needed to handle varying levels of usage efficiently.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
