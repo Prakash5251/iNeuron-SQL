@@ -1,0 +1,37 @@
+SYNTAX : ALTERING TABLE
+
+
+>> alter table table_name add column_name datatype(15);
+
+Use Alter Table
+Input the table name
+Add the column name and Data Type
+Use the Columns Modification syntax
+
+
+>> alter table employees modify location char(15);
+
+Use the Modification syntax
+Add the column name and Data Type
+Add the column name and Data Type
+Use the Modification syntax
+
+
+
+>> alter table employees drop column city;
+
+Use the rename syntax
+Add the Old column and the new column name
+Use the drop column syntax
+Add the column name to be dropped
+
+
+
+SYNTAX : DROPPING TABLE
+
+>> drop table table_name;
+
+Use the drop table syntax
+Add the column name to be dropped
+
+Video URL: https://youtu.be/ayGWJKosKog
