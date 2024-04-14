@@ -1,0 +1,25 @@
+SYNTAX : PRIMARY KEY
+
+create table table_name(Column_name1 datatype1,Column_name2 datatype2, ……,);
+
+
+
+PRIMARY KEY =  Not Null + Unique
+
+
+PPT Link: https://docs.google.com/presentation/d/1XeRTuIsTEDNuC5WUr7oMlzZvEXure7ZhJnscZXkjaSY/edit#slide=id.p24
+
+
+Table Relationships:
+Primary Key >>> Parent Table
+Foreign Key >>> Child Table
+
+
+Relationships Rules:
+1. The two tables should have a common column 
+2. Common Column data in Child table should be present in the parent table
+3. Data from Child table cannot be deleted before the parent data
+
+
+
+
