@@ -40,3 +40,10 @@ TCL (Transaction Control Language) Commands:
    - Rolls back a transaction to a specific savepoint.
    ```sql
    ROLLBACK TO SAVEPOINT savepoint_name;
+
+
+
+
+Video URL: https://youtu.be/rgTPuNeVFTc
+PPT URL: https://docs.google.com/document/d/1FUK_a4phkpsfkqnR5wfrox2J6BwazBtkxU2YEBd5WAE/edit
+
