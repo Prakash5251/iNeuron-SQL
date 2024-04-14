@@ -1,6 +1,7 @@
 Introduction to SQL (Structured Query Language)
 
-SQL is a standardised programming language designed for managing and manipulating relational databases. It allows users to perform operations such as querying data, inserting new records, updating existing records, and deleting records. Key components of SQL include:
+SQL is a standardised programming language designed for managing and manipulating relational databases. 
+It allows users to perform operations such as querying data, inserting new records, updating existing records, and deleting records. Key components of SQL include:
 
 - Data Query Language (DQL): Used for retrieving data from databases (e.g., SELECT statements).
 
