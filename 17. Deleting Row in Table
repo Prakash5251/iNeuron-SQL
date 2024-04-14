@@ -1,0 +1,11 @@
+SYNTAX : DELETING RECORDS 
+
+delete from table_name where Condition;
+  
+- Use delete command
+- Add the table name
+- Use the where clause
+- Add the Condition
+
+
+Video URL: https://youtu.be/q8Jlk6IFUl0
