@@ -1,0 +1,58 @@
+DCL COMMANDS “CONSTRAINTS”
+
+
+Constraints: 
+- Not Null
+- Primary Key
+- Foreign Key
+- Check
+- Default
+- Unique
+
+
+SYNTAX : NOT NULL
+
+CREATE table table_name
+(Column_name1 datatype1 Not null ……,);
+
+Input the data type
+Input the constraint
+Input the Column Name
+
+
+
+SYNTAX : UNIQUE
+
+CREATE table table_name
+(Column_name1 datatype1 Unique……,);
+
+Input the data type
+Input the constraint
+Input the Column Name
+
+
+SYNTAX : CHECK
+
+CREATE table table_name
+(Column_name1 datatype1 check(condition) …,);
+
+Input the condition
+Input the data type
+Input the constraint
+Input the Column Name
+
+
+SYNTAX : DEFAULT
+
+CREATE table table_name
+(Column_name1 datatype1 default value …,);
+
+Input the default value
+Input the data type
+Input the constraint
+Input the Column Name
+
+
+Video URL: https://youtu.be/F0AzTRQsfW0
+
+
