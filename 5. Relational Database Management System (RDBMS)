@@ -1,0 +1,12 @@
+Relational Database Management System (RDBMS)
+
+An RDBMS is a type of database management system that uses a relational model to organise data into tables with rows and columns. Key features of RDBMS include:
+
+- Data Integrity: Enforces referential integrity and constraints to maintain the accuracy of relationships between tables.
+
+- Structured Query Language (SQL): Provides a standardised language for querying and manipulating data in relational databases.
+
+- ACID Properties: Ensures that database transactions are reliable and consistent (Atomicity, Consistency, Isolation, Durability).
+
+- Scalability: Supports the growth of data and users while maintaining performance.
+
