@@ -1,0 +1,36 @@
+DDL (Data Definition Language) Commands:
+
+1. CREATE:
+   - Used to create a new database, table, index, or view.
+   ```sql
+   CREATE TABLE table_name (
+      column1 datatype,
+      column2 datatype,
+      ...
+   );
+   ```
+
+2. ALTER:
+   - Modifies the structure of an existing database, table, or index.
+   ```sql
+   ALTER TABLE table_name
+   ADD column_name datatype;
+   ```
+
+3. DROP:
+   - Deletes an existing database, table, index, or view.
+   ```sql
+   DROP TABLE table_name;
+   ```
+
+4. TRUNCATE:
+   - Removes all records from a table but retains the structure for reuse.
+   ```sql
+   TRUNCATE TABLE table_name;
+   ```
+
+5. COMMENT:
+   - Adds comments to the data dictionary for documentation purposes.
+   ```sql
+   COMMENT ON TABLE table_name IS 'Description of the table';
+
