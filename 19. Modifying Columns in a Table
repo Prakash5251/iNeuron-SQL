@@ -6,6 +6,7 @@ Here are some common modifications you can perform on columns:
  
  
  1. Adding a New Column:
+
 ```sql
 ALTER TABLE table_name
 ADD column_name datatype;
@@ -15,6 +16,7 @@ ADD column_name datatype;
  
  
  2. Dropping a Column:
+
 ```sql
 ALTER TABLE table_name
 DROP COLUMN column_name;
@@ -24,6 +26,7 @@ DROP COLUMN column_name;
 
  
  3. Modifying Data Type of a Column:
+
 ```sql
 ALTER TABLE table_name
 MODIFY COLUMN column_name new_datatype;
@@ -34,6 +37,7 @@ MODIFY COLUMN column_name new_datatype;
  
  4. Renaming a Column:
 >> Renaming a column involves a combination of adding a new column, copying data, and dropping the old column.
+
 ```sql
 -- Step 1: Add a new column with the desired name and data type
 ALTER TABLE table_name
@@ -52,6 +56,7 @@ DROP COLUMN old_column_name;
  
  
  5. Setting Default Values for a Column:
+
 ```sql
 ALTER TABLE table_name
 ALTER COLUMN column_name SET DEFAULT default_value;
@@ -62,6 +67,7 @@ ALTER COLUMN column_name SET DEFAULT default_value;
  
  
  6. Removing Default Values for a Column:
+
 ```sql
 ALTER TABLE table_name
 ALTER COLUMN column_name DROP DEFAULT;
@@ -72,6 +78,7 @@ ALTER COLUMN column_name DROP DEFAULT;
  
  
  7. Adding Constraints to a Column:
+
 ```sql
 ALTER TABLE table_name
 ADD CONSTRAINT constraint_name
@@ -81,6 +88,7 @@ CHECK (column_name > 0);
 
  Example:
 Let's say you want to add a new column named `new_column` of data type `VARCHAR(255)` to an existing table named `existing_table`. The SQL statement would be:
+
 ```sql
 ALTER TABLE existing_table
 ADD new_column VARCHAR(255);
@@ -94,6 +102,9 @@ Always back up your data before making significant structural changes to a datab
 
 
 
-Video URL: https://youtu.be/0oDmE4FdoXU
 >>> In SQL, the `UPPER` and `LOWER` functions are used to convert the case of characters within a string. 
 These functions are particularly useful when you want to standardize the case of text data for comparison or display purposes. Here's an explanation of each function:
+
+
+Video URL: https://youtu.be/0oDmE4FdoXU
+PPT: URL: https://docs.google.com/document/d/15FAEDKtHHFLyp4q5bWzkdWshrigSzzMJOeJEffUlppE/edit
