@@ -1,0 +1,13 @@
+Types of Databases
+
+There are different types of databases based on their structure and functionality:
+
+1. Relational Databases: Organise data into tables with predefined relationships between them.
+
+2. NoSQL Databases: Designed to handle unstructured or semi-structured data and offer flexible schemas.
+
+3. Object-Oriented Databases: Organise data in the form of objects, supporting complex data types.
+
+4. Graph Databases: Optimal for representing and querying relationships between data entities.
+
+5. In-memory Databases: Store data in the computer's main memory (RAM) for faster access.
